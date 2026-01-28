@@ -23,6 +23,7 @@ It helps me:
 - Understand basic structure of web pages
 - Practice CSS layout and typography
 - Connect JavaScript interactions
+- Learnt new fonts in CSS
 
 ##  Development Progress
 I commit **daily improvements** to this project to build consistency:
